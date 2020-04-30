@@ -8,17 +8,17 @@ Run Instructions:
   USAGE: Driver.java 
 
 Submitted Files:
-  - input.txt
+  - input.txt/
       Handles automation of input values one at a time, due to running out of memory when using loops
-  - Algorithm1.java
+  - Algorithm1.java/
       Merge sort algorithm class
-  - Algorithm2.java
+  - Algorithm2.java/
       Quick select algorithm (recursive solution) class
-  - Algorithm3.java
+  - Algorithm3.java/
       Quick select algorithm (iterative solution) class
-  - Algorithm4.java
+  - Algorithm4.java/
       Medians of medians algorithm class
-  - CS3310_Report_pj2.docx
+  - CS3310_Report_pj2.docx/
       Report based on data gathered
-  - Driver.java
+  - Driver.java/
       Main class to run all algorithm classes
